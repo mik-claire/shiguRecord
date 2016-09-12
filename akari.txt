@@ -1,0 +1,32 @@
+
+Name: ナツキ アカリ(那築 灯里)
+
+image color: Braise #D8521E
+
+152 cm / ?? kg
+83(C)/57/81
+
+hair
+coral #FF7F50
+R:255, G:127, B:80
+前髪は両目の間に一房、ショートカット
+やや癖っ毛気味
+
+eye
+rouge orange #FF4B23
+R:255, G:75, B:35
+ややタレ目
+
+下着
+/* no data */
+
+部屋着
+/* no data */
+
+制服
+/* no data */
+
+私服
+/* no data */
+
+その他画像
