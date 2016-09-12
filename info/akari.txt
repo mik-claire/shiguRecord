@@ -1,5 +1,6 @@
 
 Name: ナツキ アカリ(那築 灯里)
+url: https://www.dropbox.com/sh/0qp1bby7e5ddzkd/AADtpY34KIguPpBDA8tjbNCVa?dl=0
 
 image color: Braise #D8521E
 
@@ -25,7 +26,6 @@ R:255, G:75, B:35
 /* no data */
 
 制服
-url: https://www.dropbox.com/s/19c4tx993n0xc4m/%E5%86%99%E7%9C%9F%202016-09-12%2015%2042%2036.jpg?dl=0
 セーラー服 (黒)
   スカートの裾と袖・あて布の端に1本のライン (白)
   襟の色は白
@@ -59,6 +59,3 @@ url: https://www.dropbox.com/s/19c4tx993n0xc4m/%E5%86%99%E7%9C%9F%202016-09-12%2
 マスター宅のすぐ近くに引っ越し、そこから学校に通っている
 昔はマスターのことを『お兄ちゃん』と呼んでいたが、
 やや恥ずかしいため最近は『お兄さん』と呼ぶ
-
-
-その他画像
