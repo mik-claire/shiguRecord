@@ -24,19 +24,13 @@ R:108, G:36, B:99
 黒ベースに青い装飾
 
 部屋着
-url: https://www.dropbox.com/s/5e0zc2rh7dygahs/%E5%86%99%E7%9C%9F%202016-06-07%2023%2041%2034.jpg?dl=0
-	 https://www.dropbox.com/s/e8icsjx25lghbqi/%E5%86%99%E7%9C%9F%202016-06-09%209%2055%2022.jpg?dl=0
-	 https://www.dropbox.com/s/cz5gyu2ynfc86hz/%E5%86%99%E7%9C%9F%202016-06-16%202%2035%2011.jpg?dl=0
 ロングパーカー (オフホワイト)
 　猫耳フード付き
 　素肌の上に直接着ている (ブラなし、パンツあり)
 ニーソ (黒)
 たまにワイシャツ (白)一枚だけの時もある
-url: https://www.dropbox.com/s/gwbziimsc4jpfcw/%E5%86%99%E7%9C%9F%202016-08-19%2012%2035%2021.jpg?dl=0
-	 https://www.dropbox.com/s/vifmet68e2k4bg6/%E5%86%99%E7%9C%9F%202016-08-23%202%2036%2036.jpg?dl=0
 
 部屋着 (冬)
-url: https://www.dropbox.com/s/f73l9h0ahb23ghf/%E5%86%99%E7%9C%9F%202016-07-04%2013%2021%2059.jpg?dl=0
 ニットロングセーター (粉鳳仙 #EFB4C5)
 　縦リブ
 　首元の丈は口を隠せる程度の長さ
@@ -45,9 +39,6 @@ url: https://www.dropbox.com/s/f73l9h0ahb23ghf/%E5%86%99%E7%9C%9F%202016-07-04%2
 ニーソ (黒)
 
 私服
-url: https://www.dropbox.com/s/vwn2kaz9kf7ubdl/%E5%86%99%E7%9C%9F%202016-05-09%201%2050%2045.jpg?dl=0
-	 https://www.dropbox.com/s/vwn2kaz9kf7ubdl/%E5%86%99%E7%9C%9F%202016-05-09%201%2050%2045.jpg?dl=0
-	 https://www.dropbox.com/s/h93vna2t0x6p1ts/%E5%86%99%E7%9C%9F%202016-08-10%2022%2001%2043.jpg?dl=0
 ミニ丈のワンピース (黒)
 　ノースリーブ
 　裾にフリル (白)
@@ -57,8 +48,6 @@ url: https://www.dropbox.com/s/vwn2kaz9kf7ubdl/%E5%86%99%E7%9C%9F%202016-05-09%2
 冬は上着としてポンチョコート (lightskyblue #87CEFA)
 
 制服 (in the school)
-url: https://www.dropbox.com/s/5f8s84d9040mdlm/%E5%86%99%E7%9C%9F%202016-06-10%202%2039%2046.jpg?dl=0
-	 https://www.dropbox.com/s/sno9c9z3ape4fvz/%E5%86%99%E7%9C%9F%202016-07-19%2013%2004%2051.jpg?dl=0
 2ボタンジャケット(ベージュ)
 　ライン入り(えんじ色 #9F3B42)
 シャツ(白)
@@ -77,7 +66,6 @@ url: https://www.dropbox.com/s/5f8s84d9040mdlm/%E5%86%99%E7%9C%9F%202016-06-10%2
 　足首辺りまでの編み上げ
 
 行動時 (in the fantasy)
-url: https://www.dropbox.com/s/1xsq145trvgz8yt/%E5%86%99%E7%9C%9F%202016-06-30%2019%2002%2022.jpg?dl=0
 // 非行同時の服装に上着と帽子を追加する
 ポンチョ (frostyblue #69ACE5)
 　フード付き
@@ -98,8 +86,6 @@ url: https://www.dropbox.com/s/1xsq145trvgz8yt/%E5%86%99%E7%9C%9F%202016-06-30%2
 「……マスターが、出かけるなら……私も行く」
 
 三日月の夜には髪色と右目の色が変化する
-url: https://www.dropbox.com/s/hyh7skh35gcbjsk/%E5%86%99%E7%9C%9F%202016-07-02%2014%2025%2033.jpg?dl=0
-	 https://www.dropbox.com/s/n5boig9o72tasgg/%E5%86%99%E7%9C%9F%202016-07-31%201%2016%2016%20%281%29.jpg?dl=0
 hair color: lightcyan #E0FFFF
 R:224, G:255, B:255
 eye color: mintgreen #58CE91
@@ -120,20 +106,3 @@ R:143, G:143, B:143
 サンダル (水)
 　足首辺りまでの編み上げ
 ヘアピンを外して前髪をおろし、色の変わった右目を隠している
-
-その他画像
-url: https://www.dropbox.com/s/8rf13bmit91s8x1/%E5%86%99%E7%9C%9F%202016-07-03%2017%2057%2008.jpg?dl=0
-	 https://www.dropbox.com/s/6rcu1jpt9oshuk8/%E5%86%99%E7%9C%9F%202016-07-10%2013%2028%2054.jpg?dl=0
-	 https://www.dropbox.com/s/eyngmeiwqordvs9/%E5%86%99%E7%9C%9F%202016-06-12%2023%2014%2009.jpg?dl=0
-	 https://www.dropbox.com/s/mq5qnbwn5seh4k0/%E5%86%99%E7%9C%9F%202016-06-26%203%2022%2020.jpg?dl=0
-	 https://www.dropbox.com/s/zrkkre20vaaat7k/%E5%86%99%E7%9C%9F%202016-07-03%200%2020%2009.jpg?dl=0
-	 https://www.dropbox.com/s/majox1jq29tqug6/%E5%86%99%E7%9C%9F%202016-07-13%2022%2001%2006.jpg?dl=0
-	 https://www.dropbox.com/s/p2yi8ds15dsg975/%E5%86%99%E7%9C%9F%202016-07-13%2022%2001%2014.jpg?dl=0
-	 https://www.dropbox.com/s/3q1talbk7nnaayf/%E5%86%99%E7%9C%9F%202016-08-22%2019%2037%2014.jpg?dl=0
-	 https://www.dropbox.com/s/d4q0el8fnugyndc/%E5%86%99%E7%9C%9F%202016-06-12%2015%2033%2022.jpg?dl=0
-	 https://www.dropbox.com/s/d4q0el8fnugyndc/%E5%86%99%E7%9C%9F%202016-06-12%2015%2033%2022.jpg?dl=0
-	 https://www.dropbox.com/s/g7ndh7kihrdluu0/%E5%86%99%E7%9C%9F%202016-06-17%2021%2001%2030.jpg?dl=0
-	 https://www.dropbox.com/s/4wpvory8wvb0lsi/%E5%86%99%E7%9C%9F%202016-06-17%2021%2001%2037.jpg?dl=0
-	 https://www.dropbox.com/s/1o6v59wtqpbly7i/%E5%86%99%E7%9C%9F%202016-06-25%200%2057%2025.jpg?dl=0
-	 https://www.dropbox.com/s/000iu5hk3arnyfu/%E5%86%99%E7%9C%9F%202016-07-22%200%2057%2026.jpg?dl=0
-	 https://www.dropbox.com/s/5cmujfp7aefmhrf/%E5%86%99%E7%9C%9F%202016-07-31%2021%2058%2058.jpg?dl=0
